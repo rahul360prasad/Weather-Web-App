@@ -1,3 +1,9 @@
+Screenshots:
+
+![React-App (1)](https://github.com/rahul360prasad/Weather-Web-App/assets/65440053/daf98138-4387-4e54-af9e-e173c709dd83)![React-App](https://github.com/rahul360prasad/Weather-Web-App/assets/65440053/d1583e44-90ea-4e77-8265-5858a37dd62f)
+![Screenshot (26)](https://github.com/rahul360prasad/Weather-Web-App/assets/65440053/96aa71aa-e5d7-43d2-bc7d-a0243de3d5bb)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
